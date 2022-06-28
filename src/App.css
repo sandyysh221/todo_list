@@ -60,10 +60,10 @@ button {
   border: 1px solid #000;
 }
 
-li.low-priority {
+li.low {
   border: 2px solid #1a681e;
   color: #1a681e;
 }
-li.high-priority {
+li.high {
   border: 2px solid #f2360c;
 }
